@@ -13,5 +13,6 @@
  You can see more details from the project report: [report.pdf](https://github.com/kolechr/seniorproject/files/9180471/report.pdf)
  
  Some of the interfaces:
+ 
 ![menu](https://user-images.githubusercontent.com/108165007/180757449-93d58b66-e87d-4c25-89bb-5422bad145aa.png)
 ![customer](https://user-images.githubusercontent.com/108165007/180757640-7034c2fb-d463-4617-b75c-85ad66bef67e.png)
