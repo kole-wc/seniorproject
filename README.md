@@ -11,7 +11,7 @@ Teammate: [Fadhiil Sofjan](https://www.linkedin.com/in/fadhiil-sofjan-012674207)
  
  We are challenged with various tasks including system analysis and designs which include dataflow diagram, entity-relationship diagram, and more.
  
- You can see more details from the project report: [report.pdf](https://github.com/kolechr/seniorproject/files/9180471/report.pdf)
+ You can see more details from the [project report](https://github.com/kolechr/seniorproject/files/9180471/report.pdf).
  
  Some of the interfaces:
  
