@@ -1,8 +1,9 @@
 # Assumption University Senior Project
 
+Teammate: [Fadhiil Sofjan](https://www.linkedin.com/in/fadhiil-sofjan-012674207)
+
  We were tasked to develop an application that is able to solve a company's business problems or enhance its operations.
  We observed and analyzed the business practices then later defined problems and created objectives.
- 
  
  The company experience legacy problems. It is an old business that is still storing paper-based information to this date. This made some of their processes very slow and inefficient, including problems regarding information redundancy.
  
